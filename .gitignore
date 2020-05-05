@@ -1,0 +1,10 @@
+node_modules/
+build/
+modules/
+saved_models/
+data_lmdb_release/
+image_release
+*.pth
+android/
+ios/
+*.json
